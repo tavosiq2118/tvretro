@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="FUTV.cr" tvg-name="FUTV" tvg-language="Spanish" tvg-logo="https://descargas.ams3.digitaloceanspaces.com/images/8881/retro-tv-peliculas-amp-series_android_2831_1.png" group-title="COSTA RICA",RETRO TV CR
-chrome-extension://lcipembjfkmeggpihdpdgnjildgniffl/player.html#http://192.168.100.65:8088/livelan/stream.m3u8
+http://192.168.100.65:8088/livelan/stream.m3u8
