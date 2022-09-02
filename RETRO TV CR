@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="http://nuevacosechacr.epizy.com/wp-content/uploads/2022/09/LOGO_2-removebg-preview.png",NUEVA COSECHA TV
-http://192.168.100.65:8088/livelan/stream.m3u8
+chrome-extension://lcipembjfkmeggpihdpdgnjildgniffl/player.html#http://192.168.100.65:8088/livelan/stream.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://static.epg.best/cr/Canal4.cr.png",Canal 4 SD
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal4_360.m3u8
