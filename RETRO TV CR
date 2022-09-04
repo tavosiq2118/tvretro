@@ -1,4 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="COSTA RICA",NUEVA COSECHA TV
-http://localhost/dash/live.mpd
+http://192.168.100.65:8088/livelan/stream.m3u8
