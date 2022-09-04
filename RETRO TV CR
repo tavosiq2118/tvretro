@@ -1,4 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="COSTA RICA",NUEVA COSECHA TV
-https://nuevacosecha2118-hls.secdn.net/nuevacosecha2118-channel/play/sw8fc52.smil/playlist.m3u8
+http://localhost/dash/live.mpd
