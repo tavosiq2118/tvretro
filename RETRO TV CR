@@ -1,4 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="COSTA RICA",NUEVA COSECHA TV
-https://57bb-201-191-59-151.ngrok.io/hls/stream.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://bethellimon.xyz/wp-content/uploads/2022/09/Diapositiva1-1-640x360.jpg",BETHEL LIMON TV (HD)
+https://7d59-201-198-148-226.ngrok.io/hls/stream.m3u8
+#EXTINF:-1 group-title="COSTA RICA"tvg-logo="https://bethellimon.xyz/wp-content/uploads/2022/09/Diapositiva1-1-640x360.jpg",BETHEL LIMON TV  (SD)
+https://7d59-201-198-148-226.ngrok.io/hls/stream2.m3u8
