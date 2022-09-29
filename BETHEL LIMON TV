@@ -1,6 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://bethellimon.xyz/wp-content/uploads/2022/09/Diapositiva1-1-640x360.jpg",BETHEL LIMON TV (HD)
-https://5188-201-203-50-36.ngrok.io/hls/stream.m3u8
+https://f645-201-191-120-41.ngrok.io/hls/stream.m3u8
 #EXTINF:-1 group-title="COSTA RICA"tvg-logo="https://bethellimon.xyz/wp-content/uploads/2022/09/Diapositiva1-1-640x360.jpg",BETHEL LIMON TV  (SD)
-https://5188-201-203-50-36.ngrok.io/hls/stream2.m3u8
+https://f645-201-191-120-41.ngrok.io/hls/stream2.m3u8
